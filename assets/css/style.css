@@ -249,3 +249,7 @@ a#email {
   border-radius: 0px !important;
   font-size: 18px;
 }
+
+#mc_embed_signup .button:hover {
+  background-color: #555 !important;
+}
