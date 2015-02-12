@@ -229,7 +229,14 @@ h1, h2, h3, h4, h5, h6 {
 	opacity: 0.4;
 }
 
+
 /* Hrefs */
 a#email {
   color: #fff
+}
+
+
+/* Mail chimp form */
+#mc_embed_signup div.mce_inline_error {
+  background-color: #6B0505;
 }
