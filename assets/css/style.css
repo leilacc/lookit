@@ -238,5 +238,5 @@ a#email {
 
 /* Mail chimp form */
 #mc_embed_signup div.mce_inline_error {
-  background-color: #6B0505;
+  background-color: red;
 }
