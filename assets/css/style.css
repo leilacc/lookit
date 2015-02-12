@@ -245,7 +245,7 @@ a#email {
 }
 
 #mc_embed_signup .button {
-  background-color: #777;
-  border-radius: 0px;
+  background-color: #777 !important;
+  border-radius: 0px !important;
   font-size: 18px;
 }
