@@ -248,6 +248,7 @@ a#email {
   background-color: #777 !important;
   border-radius: 0px !important;
   font-size: 18px !important;
+  padding: 0px;
 }
 
 #mc_embed_signup .button:hover {
