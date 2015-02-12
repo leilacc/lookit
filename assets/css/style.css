@@ -72,6 +72,9 @@ h1, h2, h3, h4, h5, h6 {
     color: #4a4a4a;
 }
 
+h1 {
+  margin-bottom: 40px;
+}
 
 .navbar-brand {
 	font-weight: 700;
@@ -238,5 +241,11 @@ a#email {
 
 /* Mail chimp form */
 #mc_embed_signup .mc-field-group input {
-  font-size: 16px;
+  font-size: 18px;
+}
+
+#mc_embed_signup .button {
+  background-color: #777;
+  border-radius: 0px;
+  font-size: 18px;
 }
